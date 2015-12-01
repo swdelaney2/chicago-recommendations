@@ -1,0 +1,7 @@
+<%= @recs.to_json %>
+
+<p><hr><p>
+  
+<% @recs.each do |inc| %>
+<li><%= p inc.contributor + ' recommended ' + inc.place + '.' %></li>
+<% end %>
