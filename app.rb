@@ -10,3 +10,7 @@ get '/' do
   @recs = ClassRecs.all
   erb :index
 end
+
+get '/api' do
+ClassRecs.all.to_json
+end

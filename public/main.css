@@ -1,0 +1,16 @@
+#recommendations {
+  background-color: #213a4d;
+  color: #85aafb;
+  width: 45%;
+  margin: 1em;
+  border: 2em #c5d8f0 dashed;
+  padding: 2em; }
+
+#recommendations:hover {
+  border: 2em #c5d8f0 solid; }
+
+body {
+  background-image: url("http://chicagopolicyreview.org/wp-content/uploads/2015/09/Chicago-Architecture.jpg");
+  background-size: cover; }
+
+/*# sourceMappingURL=main.css.map */

@@ -1,7 +1,9 @@
-<%= @recs.to_json %>
+<!-- <%= @recs.to_json %>
 
 <p><hr><p>
-  
+   -->
+   <div id='recommendations'>
 <% @recs.each do |inc| %>
 <li><%= p inc.contributor + ' recommended ' + inc.place + '.' %></li>
 <% end %>
+</div>

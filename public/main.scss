@@ -1,0 +1,17 @@
+#recommendations {
+  background-color: rgb(33, 58, 77);
+  color: rgb(133, 170, 251);
+  width: 45%;
+  margin: 1em;
+  border: 2em rgb(197, 216, 240) dashed;
+  padding: 2em;
+}
+
+#recommendations:hover {
+  border: 2em rgb(197, 216, 240) solid;
+}
+
+body {
+  background-image: url("http://chicagopolicyreview.org/wp-content/uploads/2015/09/Chicago-Architecture.jpg");
+background-size:cover;
+}
