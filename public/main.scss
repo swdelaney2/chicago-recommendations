@@ -1,9 +1,9 @@
 #recommendations {
   background-color: rgb(33, 58, 77);
   color: rgb(133, 170, 251);
-  width: 45%;
+  width: 60%;
   margin: 1em;
-  border: 2em rgb(197, 216, 240) dashed;
+  border: 1em rgb(197, 216, 240) dashed;
   padding: 2em;
 }
 
@@ -23,7 +23,7 @@ h1 {
 // }
 
 #recommendations:hover {
-  border: 2em rgb(197, 216, 240) solid;
+  border: 1em rgb(197, 216, 240) solid;
 }
 
 body {

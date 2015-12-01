@@ -1,9 +1,9 @@
 #recommendations {
   background-color: #213a4d;
   color: #85aafb;
-  width: 45%;
+  width: 60%;
   margin: 1em;
-  border: 2em #c5d8f0 dashed;
+  border: 1em #c5d8f0 dashed;
   padding: 2em; }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
   font-family: 'Indie Flower', cursive; }
 
 #recommendations:hover {
-  border: 2em #c5d8f0 solid; }
+  border: 1em #c5d8f0 solid; }
 
 body {
   background-image: url("http://chicagopolicyreview.org/wp-content/uploads/2015/09/Chicago-Architecture.jpg");
