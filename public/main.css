@@ -6,6 +6,10 @@
   border: 2em #c5d8f0 dashed;
   padding: 2em; }
 
+h1 {
+  margin-left: 5em;
+  font-family: 'Indie Flower', cursive; }
+
 #recommendations:hover {
   border: 2em #c5d8f0 solid; }
 
